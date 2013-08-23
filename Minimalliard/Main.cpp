@@ -92,6 +92,9 @@ void loadLevel(char * filename){
 
 
 
+
+// Пиздец. Полчаса мэин искать
+
 int main(){
 	initialize();
 	initializeBox2d();
@@ -106,6 +109,10 @@ int main(){
 
 	return 5;
 }
+
+
+
+
 
 void bye(){
 	//lua_close(l); // This generating "Access violation" (?_?)
