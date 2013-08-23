@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimalliard", "Minimalliard\Minimalliard.vcxproj", "{8F5F9065-F852-4F91-AA0D-5D421C071F95}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Map editor", "Map editor\Map editor.vcxproj", "{2DB48FE6-A31D-453E-9168-1EBB0FBD7ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F5F9065-F852-4F91-AA0D-5D421C071F95}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F5F9065-F852-4F91-AA0D-5D421C071F95}.Debug|Win32.Build.0 = Debug|Win32
+		{8F5F9065-F852-4F91-AA0D-5D421C071F95}.Release|Win32.ActiveCfg = Release|Win32
+		{8F5F9065-F852-4F91-AA0D-5D421C071F95}.Release|Win32.Build.0 = Release|Win32
+		{2DB48FE6-A31D-453E-9168-1EBB0FBD7ED3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2DB48FE6-A31D-453E-9168-1EBB0FBD7ED3}.Debug|Win32.Build.0 = Debug|Win32
+		{2DB48FE6-A31D-453E-9168-1EBB0FBD7ED3}.Release|Win32.ActiveCfg = Release|Win32
+		{2DB48FE6-A31D-453E-9168-1EBB0FBD7ED3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
